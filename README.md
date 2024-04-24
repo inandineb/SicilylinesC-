@@ -1,2 +1,2 @@
-# SicilylinesC-
-Ce projet consistait à développer une application en C# pour l'administrateur du portail internet, lui permettant de tester et de modifier les données de la base de données existante.
+# SicilylinesLaravel
+Dans le cadre de ce projet, j'ai été chargé de développer une application web avec le framework Laravel pour l'entreprise SicilyLines. L'objectif était de mettre en place un intranet permettant de gérer sa flotte de ferrys.
